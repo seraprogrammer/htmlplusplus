@@ -67,7 +67,7 @@ Use on:event attributes to bind functions to DOM events.
 ```
 # Advanced Features
 Nested Properties:
-ReactiveJS supports nested properties within reactive objects.
+HTM++ supports nested properties within reactive objects.
 
 ```js
 const post = reactive({
