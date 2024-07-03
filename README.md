@@ -54,13 +54,13 @@ const post = reactive({
 });
 ```
 ## Bind Data to DOM:
-Use the x-bind attribute to bind data properties to DOM elements.
+Use the `x-bind` attribute to bind data properties to DOM elements.
 
 ```html
 <p x-bind="{count}"></p>
 ```
 ## Handle Events:
-Use on:event attributes to bind functions to DOM events.
+Use `on:event` attributes to bind functions to DOM events.
 
 ```html
 <button on:click="change">Update</button>
@@ -80,7 +80,7 @@ const post = reactive({
 <p x-bind="{user.name}"></p>
 ```
 Event Attributes
-Bind functions to various DOM events using attributes like on:click, on:mouseover, etc.
+Bind functions to various DOM events using attributes like `on:click`, `on:mouseover`, etc.
 ```html
 <button on:click="change">Update</button>
 ```
@@ -88,7 +88,7 @@ Bind functions to various DOM events using attributes like on:click, on:mouseove
 <button on:click="change">Update</button>
 ```
 # Example
-Here is a complete example demonstrating the basic usage of ReactiveJS:
+Here is a complete example demonstrating the basic usage of HTM++:
 
 ```html
 <!DOCTYPE html>
