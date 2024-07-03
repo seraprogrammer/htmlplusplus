@@ -1,6 +1,6 @@
 # HTML++
 
-ReactiveJS is a lightweight JavaScript framework designed to create reactive web applications easily. It enables you to bind data to the DOM and handle events seamlessly, updating the UI in response to data changes.
+HTM++ is a simple, lightweight JavaScript framework for creating reactive web applications. It allows you to bind data to the DOM and handle events with ease, making it simple to create interactive user interfaces.
 
 ## Features
 
