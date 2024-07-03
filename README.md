@@ -23,7 +23,7 @@ Include the framework in your HTML file by linking to the `app.js` script.
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ReactiveJS Example</title>
+  <title>HTM++ Example</title>
   <script src="app.js"></script>
 </head>
 <body>
@@ -96,7 +96,7 @@ Here is a complete example demonstrating the basic usage of HTM++:
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ReactiveJS Example</title>
+  <title>HTM++ Example</title>
   <script src="app.js"></script>
 </head>
 <body>
