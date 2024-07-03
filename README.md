@@ -1,4 +1,4 @@
-# ReactiveJS Framework
+# HTML++
 
 ReactiveJS is a lightweight JavaScript framework designed to create reactive web applications easily. It enables you to bind data to the DOM and handle events seamlessly, updating the UI in response to data changes.
 
@@ -38,7 +38,7 @@ Include the framework in your HTML file by linking to the `app.js` script.
 </body>
 </html>
 ```
-##Usage
+## Usage
 Create Reactive Objects:
 Use the reactive function to create reactive objects.
 
@@ -50,19 +50,19 @@ const post = reactive({
   }
 });
 ```
-##Bind Data to DOM:
+## Bind Data to DOM:
 Use the x-bind attribute to bind data properties to DOM elements.
 
 ```html
 <p x-bind="{count}"></p>
 ```
-##Handle Events:
+## Handle Events:
 Use on:event attributes to bind functions to DOM events.
 
 ```html
 <button on:click="change">Update</button>
 ```
-#Advanced Features
+# Advanced Features
 Nested Properties:
 ReactiveJS supports nested properties within reactive objects.
 
@@ -84,7 +84,7 @@ Bind functions to various DOM events using attributes like on:click, on:mouseove
 ```html
 <button on:click="change">Update</button>
 ```
-#Example
+# Example
 Here is a complete example demonstrating the basic usage of ReactiveJS:
 
 ```html
@@ -111,6 +111,6 @@ Here is a complete example demonstrating the basic usage of ReactiveJS:
 </body>
 </html>
 ```
-#Contributing
+# Contributing
 We welcome contributions to enhance ReactiveJS. Please fork the repository and submit pull requests.
 
