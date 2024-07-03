@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="https://cdn.jsdelivr.net/gh/seraprogrammer/htmlplusplus@main/htmlplusplus.js"></script>
+</head>
+
+<body>
+  <script>
+    const post = reactive({
+      count: 0,
+      chnage: function () {
+        this.count++
+      }
+    })
+  </script>
+
+  <p x-bind="{count}"></p>
+  <button on:click="chnage">update</button>
+
+</body>
+
+</html>
