@@ -11,7 +11,10 @@ HTM++ is a simple, lightweight JavaScript framework for creating reactive web ap
 ## Getting Started
 
 ### Installation
-
+```html
+https://cdn.jsdelivr.net/gh/seraprogrammer/htmlplusplus@main/htmlplusplus.js
+```
+### or
 Include the framework in your HTML file by linking to the `app.js` script.
 
 ```html
