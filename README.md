@@ -1,6 +1,7 @@
 # HTML Import Compiler
 
 This project provides a powerful compiler that allows developers to import HTML files into other HTML files, similar to how JavaScript modules work. The compiler processes these imported files and generates a structured output containing a single `index.html`, `styles.css`, and `index.js`. This approach makes HTML development more modular and maintainable.
+![image](https://github.com/user-attachments/assets/48a8f1d0-155b-4cb1-af44-29791709f406)
 
 ## Features
 - **Import HTML files inside another HTML file** just like JavaScript modules.
