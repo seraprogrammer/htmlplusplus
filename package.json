@@ -1,0 +1,15 @@
+{
+  "name": "htmlplusplus",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "htmlplusplus"
+  },
+  "dependencies": {
+    "chokidar": "^4.0.3",
+    "picocolors": "^1.1.1"
+  },
+  "devDependencies": {
+    "htmlplusplus": "^1.0.5"
+  }
+}
