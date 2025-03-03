@@ -13,8 +13,8 @@ This project provides a powerful compiler that allows developers to import HTML 
 ### Step 1: Clone the Repository
 Run the following command in your terminal to clone the repository:
 ```sh
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/seraprogrammer/htmlplusplus.git
+   cd htmlplusplus
 ```
 
 ### Step 2: Install Dependencies
